@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+<remote  name="github"
+           fetch=".." />
+
+ <default revision="refs/heads/master"
+ 	remote="github"
+ 	sync-c="true"
+ 	sync-j="4" />
+
+ <project path="build" name="TextSearchy/build" >
+ 	<copyfile src="build.sh" dest="build.sh" />
+ </project>
+</manifest>
