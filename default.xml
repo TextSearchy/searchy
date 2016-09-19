@@ -13,4 +13,6 @@
  <project path="build" name="TextSearchy/build" >
  	<copyfile src="build.sh" dest="build.sh" />
  </project>
+ <project path="core_engine" name="TextSearchy/core_engine" />
+ <project path="pdfConvertor" name="TextSearchy/pdfConvertor" />
 </manifest>
