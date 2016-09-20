@@ -15,4 +15,5 @@
  </project>
  <project path="core_engine" name="TextSearchy/core_engine" />
  <project path="pdfConvertor" name="TextSearchy/pdfConvertor" />
+ <project path="tools/prebuilts" name="TextSearchy/ParaToSentence" />
 </manifest>
