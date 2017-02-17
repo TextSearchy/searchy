@@ -3,7 +3,7 @@
 To Download the whole project, just follow the simple steps:
 
 * Installing repo
- * `mkdir -p ~/bin/repo`
+ * `mkdir -p ~/bin/`
  * `PATH=~/bin:$PATH`
  * `curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo`
  * `chmod a+x ~/bin/repo`
